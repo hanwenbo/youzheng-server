@@ -5,3 +5,9 @@
 ```bash
 composer install
 ```
+
+### 启动
+
+```bash
+php fashop start
+```
